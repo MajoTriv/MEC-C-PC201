@@ -1,0 +1,96 @@
+JUAN FERNANDO VILLAMARIN
+MARIA JOSE TIVIÑO HERRERA
+Que debe llevar la pagina de NetBeans:
+Interfaz gráfica:
+Menu de categorias:
+Ofertas:
+Ofertas imperdibles
+Fanáticos de precios bajos
+Cuida tu bolsillo
+Medicamentos:
+OFERTAS IMPERDIBLES
+Alivio de dolor
+Metabólicos
+Corazón y sistema circulatorio
+Dermatológicos
+Especializados
+Alergias
+Gripas y tos
+Antiinfecciosos
+Anticonceptivos
+asepsia
+Botiquín y primeros auxilios
+Cuidado de la diabetes
+Dieta y control de peso
+Equipos medicos
+Naturales y fisioterapéuticos
+sistema respiratorio
+Salud digestiva
+Salud sexual
+Salud visual y auditiva
+Terapia Tiroides 
+Dermocosmeticos
+OFERTAS IMPERDIBLES
+Proteccion solar
+Cuidado facial
+Cuidado corporal
+Cuidado del cabello
+Cuidado personal
+OFERTAS IMPERDIBLES
+Cuidado de la piel
+Cuidado del cabello
+Higiene oral
+Higiene personal
+Afeitada y depilacion
+Cuidado femenino
+Incontinencia
+Bebe y maternidad
+OFERTAS IMPERDIBLES
+Alimentación y lactancia
+Pañales y toallas húmedas
+Hora del baño
+Mamá
+Bienestar y nutrición
+OFERTAS IMPERDIBLES
+Nutricion
+Vitaminas y minerales
+Suplemento nutricional
+Suplementos dietarios
+Deporte
+Alimentos Saludables
+Salud sexual
+OFERTAS IMPERDIBLES
+Alivio de dolor
+Anticonceptivos
+Cuidado de la próstata
+Disfunción eréctil
+Lubricantes e higiene 
+Preservativos 
+Tratamiento testosterona 
+Belleza
+OFERTAS IMPERDIBLES
+Cuidado corporal
+Cuidado del cabello
+Maquillaje
+Perfumes
+Alimentos y bebidas 
+OFERTAS IMPERDIBLES
+Alimentos saludables
+Bebidas
+Snacks
+Usuarios EPS y Medicina prepagada
+Imagen:
+
+Selección:
+EPS (Sura, Sanitas, S.O.S)
+ Puntos habilitados (lista de lugares)
+ Generalidades (derechos y deberes, pbs y no pbs, cuota moderadora)
+ Entrega de medicamentos (requisitos fórmula médica (Nombre y apellidos, tipo y # de identificación, dirección, ciudad, teléfono, lugar y fecha prescripción, vigencia de la transcripción, información detallada sobre los medicamentos (Nombre, cantidad)), entrega de medicamentos
+ Recomendación de uso
+ Agenda tu cita
+ Medicina prepagada
+Club cruz Verde
+SOLICITUD PARA RECOGER MEDICAMENTOS
+Dirección a la página de solicitud de cita:
+Diligenciamiento del formulario
+Selección de fecha y hora
